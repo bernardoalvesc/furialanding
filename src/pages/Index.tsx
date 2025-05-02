@@ -7,7 +7,6 @@ import CTASection from '@/components/CTASection';
 import Footer from '@/components/Footer';
 
 const Index = () => {
-  // Update document title
   useEffect(() => {
     document.title = "FURIA CS Bot | Feito por fãs, para fãs";
   }, []);

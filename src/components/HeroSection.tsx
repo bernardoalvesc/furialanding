@@ -26,7 +26,7 @@ const HeroSection: React.FC = () => {
             
             <div className="pt-4">
               <a 
-                href="https://t.me/furiacsbot" 
+                href="https://t.me/furiaesportscs_bot" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="btn-primary inline-block animate-pulse-glow"
