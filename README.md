@@ -1,4 +1,4 @@
-# 🖥️ Landing Page para promover o bot de CS2 da FURIa
+# 🖥️ Landing Page para promover o bot de CS2 da FURIA
 
 Esta é um projeto de uma landing page, feita para o Desafio FURIA TECH 2025
 
